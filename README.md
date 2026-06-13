@@ -1,2 +1,2 @@
 # legendary-pancake-new1
-neu description add
+neu edit new repo
